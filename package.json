@@ -10,7 +10,7 @@
     "axios": "^0.19.2",
     "babel-loader": "^8.0.6",
     "core-js": "^3.6.4",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "less": "^3.11.1",
     "less-loader": "^5.0.0",
     "normalize.css": "^8.0.1",
